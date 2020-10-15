@@ -1,4 +1,4 @@
-#dice code
+# dice code
 import random
 import sys
 
