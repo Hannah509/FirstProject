@@ -5,5 +5,6 @@ import sys
 def roll(min, max):
     while True:
         print(random.randint(min, max))
-sys.exit()
+        print(random.randint(min, max))
+    sys.exit()
 roll(1, 6)
