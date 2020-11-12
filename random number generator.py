@@ -9,8 +9,8 @@ while guess != x:
     guess = int(input("Guess a number:- "))  
         # Condition testing
     if x == guess:  
-        print("Congratulations you did it!")
+        print("Congratulations you did it :)")
     elif x > guess:
-        print("You guessed too small!")
+        print("You guessed too small :(")
     elif x < guess:
-        print("You guessed too high!")
+        print("You guessed too high :(")
