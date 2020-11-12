@@ -1,6 +1,7 @@
 import random
 print ("minimum:1")
 print ("maximum:50")
+
 x = random.randint(1,50)
 guess=x + 1
 
